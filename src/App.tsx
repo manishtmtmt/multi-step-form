@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 import AddOnsStep from "./components/AddOnsStep";
 import PersonalInfo from "./components/PersonalInfo";
